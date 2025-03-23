@@ -34,7 +34,7 @@ Bu proje, modern frontend teknolojileri ile geliştirilmiş olup dinamik, etkile
 Bu proje sürecinde API ile veri çekme, harita entegrasyonu, Redux ile state yönetimi ve kullanıcı deneyimi tasarımı konularında önemli deneyimler kazandım. Özellikle React-Leaflet ile dinamik harita işlemleri ve veri optimizasyonu üzerine yoğunlaştım.
 📢 Flight Radar ile havacılık dünyasına yeni bir bakış açısı kazandır!
 
-# 📬 Bizimle iletişime geçmek için:
+# 📬 Benimle iletişime geçmek için:
 📩 akgundogduesr@gmail.com
 Bu proje ile React, Redux, Leaflet ve API yönetimi konularında derinlemesine deneyimler kazandım. 🌍
 
